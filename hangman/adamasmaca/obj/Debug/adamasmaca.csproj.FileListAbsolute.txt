@@ -1,0 +1,85 @@
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe.config
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.exe
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.pdb
+c:\users\cem\documents\visual studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy\adamasmaca\obj\Debug\adamasmaca.pdb
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.pdb
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca - Copy - Copy - Copy\adamasmaca\obj\Debug\adamasmaca.pdb
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca\adamasmaca\bin\Debug\kelimelistesi.mdf
+C:\Users\Cem\Documents\Visual Studio 2017\Projects\adamasmaca\adamasmaca\bin\Debug\kelimelistesi_log.ldf
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\bin\Debug\kelimelistesi.mdf
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\bin\Debug\kelimelistesi_log.ldf
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.pdb
+C:\Users\Asus\Desktop\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca._2p.resources
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\kelimelistesi.mdf
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\kelimelistesi_log.ldf
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca._2p.resources
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.pdb
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Hakkinda.resources
+C:\Users\Cem\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Cpu.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\kelimelistesi.mdf
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\kelimelistesi_log.ldf
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca._2p.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Cpu.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Hakkinda.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Klasik.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Menu.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.Properties.Resources.resources
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\Asus\Desktop\armut\AA_Beta\adamasmaca\adamasmaca\obj\Debug\adamasmaca.pdb
