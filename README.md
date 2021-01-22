@@ -1,7 +1,7 @@
 # Hangman
 My first project: Guessing game with co‐op and vs. CPU modes, built in Visual Studio
 
-
+![](hangman/adamasmaca/Resources/showcase.gif)
 
 ### Game Modes
 
@@ -14,6 +14,10 @@ CPU vs Human game mode where Human gets to pick a word and CPU makes guesses
 
 #### Ask a Friend (Birine Sor):
 Local two player mode
+
+<img src="hangman/adamasmaca/Resources/showcase2.gif" alt="drawing" width="613" height="567"/>
+
+
 
 ### Prerequisites
 
